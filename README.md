@@ -20,7 +20,7 @@ nome — nome do produto<br>
 preco — preço atual<br>
 estoque — quantidade disponível
 
-### Arquitetura do Projeto
+## Arquitetura do Projeto
 src/main/java/com/desafiohttp/<br>
  ├── controller/        → Endpoints da API<br>
  ├── service/           → Regras de negócio<br>
